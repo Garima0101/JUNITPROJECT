@@ -1,0 +1,4 @@
+# ignore ALL files in ANY directory named .settings
+.settings/
+# ignore ALL files in ANY directory named target
+target/
